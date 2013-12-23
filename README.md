@@ -13,4 +13,4 @@ A binary download is also available at [http://omnispear.com/tools/cryptolocker-
 
 History
 =======
-In the aftermath of a nasty CryptoLocker installation we very quickly created this tool for internal use. This happened within 3 hours after determining that the target infection affected thousands of files across a multitude of subdirectories. After a basic clean up and adding a progress bar we made the original binary available on October 25th 2013.
+In the aftermath of a nasty CryptoLocker infection we very quickly created this tool for internal use. This happened within 3 hours after determining that the target infection affected thousands of files across a multitude of subdirectories. After a basic clean up and adding a progress bar we made the original binary available on October 25th 2013.
